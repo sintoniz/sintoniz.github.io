@@ -69,11 +69,11 @@
           "_anchor": "slider-f",
           "_styles": {
             "H1": {
-              "text-align": "left",
+              "text-align": "center",
               "font-size": "60px"
             },
             "P": {
-              "text-align": "left",
+              "text-align": "center",
               "font-size": "30px"
             }
           }
