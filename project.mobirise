@@ -25,7 +25,8 @@
     "gdpr": false,
     "uniqCompNum": 30,
     "versionPublish": "4.12.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-144974834-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-144974834-1');\n</script>\n"
   },
   "pages": {
     "index.html": {
@@ -57,7 +58,7 @@
                 "title": "La Espiral",
                 "contentAlign": "left",
                 "text": "está llena de puentes.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#image2-5\" data-toolbar=\"-mbrBtnMove\">CRUZEMOS</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#image2-5\" data-toolbar=\"-mbrBtnMove\">CRÚZALOS</a> "
               }
             ]
           },
@@ -70,11 +71,11 @@
           "_styles": {
             "H1": {
               "text-align": "center",
-              "font-size": "60px"
+              "font-size": "72px"
             },
             "P": {
               "text-align": "center",
-              "font-size": "30px"
+              "font-size": "36px"
             }
           }
         },
