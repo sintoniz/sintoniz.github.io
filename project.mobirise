@@ -185,7 +185,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://drive.google.com/file/d/1kl-gT3PKyq2DeK8y86KMfbPwbHJIs7jF/preview?loop=0&autoplay=0ile/",
+              "src": "https://drive.google.com/file/d/1FiuHyDSqageHk_gUH4d8bj8HHZgP8vRF/preview?loop=0&autoplay=0ile/",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
@@ -485,7 +485,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://drive.google.com/file/d/1dIlJuQk07xvEF4xGbz8VSjpxIuASRmHy/preview?loop=0&autoplay=0ile/",
+              "src": "https://drive.google.com/file/d/1YcVyITdh0DKVNTb7bjiGGMz7gXfnIeuc/preview?loop=0&autoplay=0ile/",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
@@ -533,7 +533,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">La Espiral | CURSOS ONLINE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-f\" aria-expanded=\"false\">La Espiral | CURSOS ONLINE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -541,11 +541,12 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CONTEMPLO</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CONTEMPLO</a>",
           "_tags": [
             "Theme"
           ],
