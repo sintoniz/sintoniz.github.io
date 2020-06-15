@@ -52,7 +52,7 @@
               {
                 "image": "images/slide2.jpg",
                 "active": true,
-                "showButtons": true,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "title": "La Espiral",
