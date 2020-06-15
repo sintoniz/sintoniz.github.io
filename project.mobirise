@@ -186,7 +186,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://drive.google.com/file/d/1FiuHyDSqageHk_gUH4d8bj8HHZgP8vRF/preview?loop=0&autoplay=0ile/",
+              "src": "https://youtu.be/qEqZYJpJTDs",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
@@ -246,7 +246,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://drive.google.com/file/d/1wSkg9bN9mFP3nDBZKlmGL3c2VgiGgTci/preview?loop=0&autoplay=0ile/",
+              "src": "https://youtu.be/BEQUuDT4BrY",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
@@ -306,7 +306,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://drive.google.com/file/d/1nHSxHg4AulMyuYiJdd5vvWNCHLkx70_9//preview?loop=0&autoplay=0ile/",
+              "src": "https://youtu.be/HzytRzkvjSM",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
@@ -426,9 +426,9 @@
             },
             "video": {
               "active": true,
-              "src": "https://drive.google.com/file/d/1cQjzpQAbARF4BovWHIK-DyRU6hsPvHGK/preview?loop=0&autoplay=0ile/",
+              "src": "https://youtu.be/9sR_8-aQzx8",
               "class": "mbr-figure__img",
-              "aspectratio": "16:9",
+              "aspectratio": "4:3",
               "autoplay": false,
               "loop": false
             }
@@ -486,7 +486,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://drive.google.com/file/d/1YcVyITdh0DKVNTb7bjiGGMz7gXfnIeuc/preview?loop=0&autoplay=0ile/",
+              "src": "https://youtu.be/NN1fUf7qCxc",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
