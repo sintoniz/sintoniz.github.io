@@ -428,7 +428,7 @@
               "active": true,
               "src": "https://youtu.be/9sR_8-aQzx8",
               "class": "mbr-figure__img",
-              "aspectratio": "4:3",
+              "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
             }
