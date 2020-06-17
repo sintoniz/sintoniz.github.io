@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "La Espiral de Contemplo",
-    "currentPage": "738hdbf738f.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -147,10 +147,12 @@
         {
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#41a85f"
+              "color": "#41a85f",
+              "text-align": "center"
             },
             ".mbr-article": {
-              "color": "#fff"
+              "color": "#fff",
+              "text-align": "center"
             }
           },
           "_params": {
@@ -172,8 +174,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "acceso",
-          "text": "<a href=\"https://laespiraldecontemplo.blogspot.com/\">Una espiral es simplemente un módulo del curso</a>",
+          "title": ":&gt;Acceso<br><a href=\"http://curso-lairaconsciente-contemplo.blogspot.com\">CLIC AQUI</a>",
+          "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
             "Theme"
@@ -634,7 +636,7 @@
         }
       ]
     },
-    "738hdbf738f.html": {
+    "EX738hdbf738f.html": {
       "settings": {
         "title": "Curso Ira Consciente MOD I",
         "meta_descr": "Cursos online de Contemplo\npor @fannycontemplo",
