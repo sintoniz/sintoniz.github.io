@@ -24,7 +24,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 66,
+    "uniqCompNum": 67,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-144974834-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-144974834-1');\n</script>\n"
@@ -1276,6 +1276,31 @@
           "_anchor": "msg-box4-1c"
         },
         {
+          "_styles": {},
+          "_params": {
+            "showText": true,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-1u"
+        },
+        {
           "_styles": {
             ".mbr-header__text": {
               "color": "#ffffff"
@@ -1318,7 +1343,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/Iw3ky3t5KPY?modestbranding=1",
+              "src": "http://www.youtube.com/embed/Iw3ky3t5KPY?modestbranding=1",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
