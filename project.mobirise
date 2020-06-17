@@ -2187,7 +2187,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://drive.google.com/file/d/134PhNB3szA39G0DAiKo8hmBhpp-9mHhw/view?usp=sharing",
+              "src": "https://drive.google.com/file/d/134PhNB3szA39G0DAiKo8hmBhpp-9mHhw/preview?loop=0&autoplay=0/",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
