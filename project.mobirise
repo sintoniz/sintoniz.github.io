@@ -24,7 +24,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 63,
+    "uniqCompNum": 66,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-144974834-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-144974834-1');\n</script>\n"
@@ -1318,7 +1318,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/Iw3ky3t5KPY??modestbranding=1",
+              "src": "https://youtu.be/Iw3ky3t5KPY?modestbranding=1",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
