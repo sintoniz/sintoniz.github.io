@@ -1358,7 +1358,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/Iw3ky3t5KPY",
+              "src": "https://youtu.be/Iw3ky3t5KPY?version=3 &autohide=2&showinfo=0&modestbranding=1",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
