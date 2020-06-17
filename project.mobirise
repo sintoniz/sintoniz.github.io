@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "La Espiral de Contemplo",
-    "currentPage": "ahsgdfyri.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -24,7 +24,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 85,
+    "uniqCompNum": 91,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-144974834-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-144974834-1');\n</script>\n"
@@ -147,12 +147,10 @@
         {
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#41a85f",
-              "text-align": "center"
+              "color": "#fff"
             },
             ".mbr-article": {
-              "color": "#9365b8",
-              "text-align": "center"
+              "color": "#fff"
             }
           },
           "_params": {
@@ -160,12 +158,12 @@
             "showText": false,
             "showButtons": false,
             "paddingTop": 2,
-            "paddingBottom": "1",
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -174,22 +172,140 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": ":&gt;Acceso<br><a href=\"https://lairaconsciente.blogspot.com\">CLIC AQUI</a>",
-          "text": "Recuerda que para acceder tienes que estar 'logeado' <br>con la cuenta de Google que utilizaste para inscribirte.",
+          "title": "<p>&nbsp; &nbsp; : MODALIDADES DEL CURSO :</p>",
+          "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box1",
-          "_anchor": "msg-box1-z"
+          "_anchor": "msg-box1-2d"
         },
         {
-          "text": "<p>Recuerda que para acceder tienes que estar 'logeado' <br>con la cuenta de Google que utilizaste para inscribirte.</p>",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#544f4f",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x934.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "MODALIDAD PREMIUM",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Si eres alumno del curso completo de 10 semanas.<br><br><i>Irene A, Magdalena M, Adela M, Laura L, Ángela F, María Jesús S, Juana G, María M, Patricia P, Manu T, Amparo G, Beatriz M, Tatjana N, Helia R, Patro O, Carmen G.</i></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://premium-lairaconsciente.blogspot.com/\" data-toolbar=\"-mbrBtnMove\">ACCEDER</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-1w"
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2h"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-1400x934.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "SÓLO MODULO 1",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>S i eres alumno inscrito en el módulo 1 de 2 semanas.<br><br><i>Alicia R, Ana G, Carmen C, Carmen R, Celia J, Daniel G, Elisabeth P, Eloísa &nbsp;T, Enea S, Enrique G, Estefanía O, Fátima L, Juan Antonio P, Lourdes R, Margarita M, Maria José S, Mercedes G, Mónica C, Paco M, Patricia M, Raquel Z, Rosa U, Rosario G, Victor Q.</i></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://lairaconsciente.blogspot.com/\" data-toolbar=\"-mbrBtnMove\">ACCEDER</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2i"
         },
         {
           "_styles": {
@@ -1466,7 +1582,7 @@
         }
       ]
     },
-    "ahsgdfyri.html": {
+    "EXahsgdfyri.html": {
       "settings": {
         "title": "PREMIUM : Curso Ira Consciente ",
         "meta_descr": "PREMIUM: Cursos online de Contemplo\npor @fannycontemplo",

@@ -12,13 +12,29 @@
 #msg-box1-y .mbr-article {
   color: #fff;
 }
-#msg-box1-z .mbr-header .mbr-header__text {
-  color: #41a85f;
-  text-align: center;
+#msg-box1-2d .mbr-header .mbr-header__text {
+  color: #fff;
 }
-#msg-box1-z .mbr-article {
-  color: #9365b8;
-  text-align: center;
+#msg-box1-2d .mbr-article {
+  color: #fff;
+}
+#msg-box5-2h .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-2h .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-2h .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-2i .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-2i .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-2i .mbr-article {
+  color: #ffffff;
 }
 #dropdown-menu-0 .hide-buttons [data-button] {
   display: none !important;
