@@ -24,7 +24,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 68,
+    "uniqCompNum": 69,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-144974834-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-144974834-1');\n</script>\n"
@@ -151,16 +151,16 @@
               "text-align": "center"
             },
             ".mbr-article": {
-              "color": "#fff",
+              "color": "#9365b8",
               "text-align": "center"
             }
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "paddingTop": 2,
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -175,13 +175,21 @@
             "overlayOpacity": 0.5
           },
           "title": ":&gt;Acceso<br><a href=\"https://lairaconsciente.blogspot.com\">CLIC AQUI</a>",
-          "text": "",
+          "text": "Recuerda que para acceder tienes que estar 'logeado' <br>con la cuenta de Google que utilizaste para inscribirte.",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box1",
           "_anchor": "msg-box1-z"
+        },
+        {
+          "text": "<p>Recuerda que para acceder tienes que estar 'logeado' <br>con la cuenta de Google que utilizaste para inscribirte.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1w"
         },
         {
           "_styles": {
