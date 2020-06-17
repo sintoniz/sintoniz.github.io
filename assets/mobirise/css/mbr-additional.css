@@ -6,92 +6,17 @@
   text-align: center;
   font-size: 36px;
 }
-#msg-box1-6 .mbr-header .mbr-header__text {
+#msg-box1-y .mbr-header .mbr-header__text {
   color: #fff;
 }
-#msg-box1-6 .mbr-article {
+#msg-box1-y .mbr-article {
   color: #fff;
 }
-#msg-box5-8 .mbr-header__text {
-  color: #ffffff;
+#msg-box1-z .mbr-header .mbr-header__text {
+  color: #41a85f;
 }
-#msg-box5-8 .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box5-8 .mbr-article {
-  color: #ffffff;
-}
-#msg-box5-b .mbr-header__text {
-  color: #ffffff;
-}
-#msg-box5-b .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box5-b .mbr-article {
-  color: #ffffff;
-}
-#msg-box5-e .mbr-header__text {
-  color: #ffffff;
-}
-#msg-box5-e .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box5-e .mbr-article {
-  color: #ffffff;
-}
-#msg-box5-r .mbr-header__text {
-  color: #ffffff;
-}
-#msg-box5-r .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box5-r .mbr-article {
-  color: #ffffff;
-}
-#msg-box5-s .mbr-header__text {
-  color: #ffffff;
-}
-#msg-box5-s .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box5-s .mbr-article {
-  color: #ffffff;
-}
-#msg-box5-t .mbr-header__text {
-  color: #ffffff;
-}
-#msg-box5-t .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box5-t .mbr-article {
-  color: #ffffff;
-}
-#msg-box5-u .mbr-header__text {
-  color: #ffffff;
-}
-#msg-box5-u .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box5-u .mbr-article {
-  color: #ffffff;
-}
-#msg-box4-x .mbr-header__text {
-  color: #000000;
-}
-#msg-box4-x .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box4-x .mbr-article {
-  color: #000000;
-}
-#msg-box5-v .mbr-header__text {
-  color: #ffffff;
-}
-#msg-box5-v .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box5-v .mbr-article {
-  color: #ffffff;
+#msg-box1-z .mbr-article {
+  color: #fff;
 }
 #dropdown-menu-0 .hide-buttons [data-button] {
   display: none !important;
@@ -120,5 +45,210 @@
   color: #ffffff;
 }
 #msg-box4-1 .mbr-article {
+  color: #ffffff;
+}
+#slider-1g H1 {
+  text-align: center;
+  font-size: 72px;
+}
+#slider-1g P {
+  text-align: center;
+  font-size: 36px;
+}
+#msg-box1-1h .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-1h .mbr-article {
+  color: #fff;
+}
+#msg-box1-1j .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-1j .mbr-article {
+  color: #fff;
+}
+#dropdown-menu-1k .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-1k .nav .link,
+#dropdown-menu-1k .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-1k .navbar,
+#dropdown-menu-1k .dropdown-menu {
+  background: #000000;
+}
+#dropdown-menu-1k .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-1k .dropdown-menu a:hover,
+#dropdown-menu-1k .dropdown-menu a:focus {
+  background: #000000;
+}
+#dropdown-menu-1k .navbar-toggler {
+  color: #ffffff;
+}
+#msg-box4-1l .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-1l .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1l .mbr-article {
+  color: #ffffff;
+}
+#dropdown-menu-1m .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-1m .nav .link,
+#dropdown-menu-1m .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-1m .navbar,
+#dropdown-menu-1m .dropdown-menu {
+  background: #000000;
+}
+#dropdown-menu-1m .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-1m .dropdown-menu a:hover,
+#dropdown-menu-1m .dropdown-menu a:focus {
+  background: #000000;
+}
+#dropdown-menu-1m .navbar-toggler {
+  color: #ffffff;
+}
+#slider-10 H1 {
+  text-align: center;
+  font-size: 72px;
+}
+#slider-10 P {
+  text-align: center;
+  font-size: 36px;
+}
+#msg-box1-11 .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-11 .mbr-article {
+  color: #fff;
+}
+#msg-box1-13 .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-13 .mbr-article {
+  color: #fff;
+}
+#msg-box1-14 .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-14 .mbr-article {
+  color: #fff;
+}
+#msg-box5-15 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-15 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-15 .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-16 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-16 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-16 .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-17 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-17 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-17 .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-18 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-18 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-18 .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-19 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-19 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-19 .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-1a .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-1a .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-1a .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-1b .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-1b .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-1b .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-1c .mbr-header__text {
+  color: #000000;
+}
+#msg-box4-1c .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1c .mbr-article {
+  color: #000000;
+}
+#msg-box5-1d .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-1d .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-1d .mbr-article {
+  color: #ffffff;
+}
+#dropdown-menu-1e .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-1e .nav .link,
+#dropdown-menu-1e .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-1e .navbar,
+#dropdown-menu-1e .dropdown-menu {
+  background: #000000;
+}
+#dropdown-menu-1e .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-1e .dropdown-menu a:hover,
+#dropdown-menu-1e .dropdown-menu a:focus {
+  background: #000000;
+}
+#dropdown-menu-1e .navbar-toggler {
+  color: #ffffff;
+}
+#msg-box4-1f .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-1f .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1f .mbr-article {
   color: #ffffff;
 }
