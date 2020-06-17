@@ -116,18 +116,16 @@
 #dropdown-menu-1m .navbar-toggler {
   color: #ffffff;
 }
-#slider-10 H1 {
-  text-align: center;
-  font-size: 72px;
-}
-#slider-10 P {
-  text-align: center;
-  font-size: 36px;
-}
 #msg-box1-11 .mbr-header .mbr-header__text {
   color: #fff;
 }
 #msg-box1-11 .mbr-article {
+  color: #fff;
+}
+#msg-box1-1q .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-1q .mbr-article {
   color: #fff;
 }
 #msg-box1-14 .mbr-header .mbr-header__text {
