@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "La Espiral de Contemplo",
-    "currentPage": "EXahsgdfyri.html",
+    "currentPage": "EX738hdbf738f.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -24,7 +24,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 117,
+    "uniqCompNum": 129,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-144974834-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-144974834-1');\n</script>\n"
@@ -938,7 +938,7 @@
           },
           "title": "Espiral #1",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"EX738hdbf738f.html#msg-box1-14\" data-toolbar=\"-mbrBtnMove\">ir</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"EX738hdbf738f.html#msg-box1-14\" data-toolbar=\"-mbrBtnMove\">iR A ESPIRAL #1</a>",
           "_tags": [
             "Theme"
           ],
@@ -975,7 +975,7 @@
           },
           "title": "Espiral #2",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"EX738hdbf738f.html#msg-box1-32\" data-toolbar=\"-mbrBtnMove\">ir</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"EX738hdbf738f.html#msg-box1-32\" data-toolbar=\"-mbrBtnMove\">iR A ESPIRAL #2</a>",
           "_tags": [
             "Theme"
           ],
@@ -1120,7 +1120,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#553982",
+            "bgColor": "#9365b8",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1138,22 +1138,22 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/2HmQ3nIzRY0",
+              "src": "http://www.youtube.com/embed/FaShjwEpmGQ",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
             }
           },
-          "title": "VÍDEO 1&nbsp;<br>La mala fama de la ira.",
+          "title": "VÍDEO 1&nbsp;<div>La mala fama de la ira.</div>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Entender el mecanismo natural de la ira en los mamíferos nos va a ayudar a entender la ira como fuerza y motivación.<br></p><p>La agresividad, la venganza, el hacer daño a través de la ira es una derivación cultural de la energía de la ira basada en nuestra educación.</p><p>No nos han permitido conectar con nuestro verdadero poder cuando éramos niños, sino que hemos sido sometidos por eso nos relacionamos con la ira desde el desempoderamiento.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://drive.google.com/file/d/1dIlJuQk07xvEF4xGbz8VSjpxIuASRmHy/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DESCARGAR</a>",
+          "text": "<p>Entender el mecanismo natural de la ira en los mamíferos nos va a ayudar a entender la ira como fuerza y motivación.</p><p>La agresividad, la venganza, el hacer daño a través de la ira es una derivación cultural de la energía de la ira basada en nuestra educación.</p><p>No nos han permitido conectar con nuestro verdadero poder cuando éramos niños, sino que hemos sido sometidos por eso nos relacionamos con la ira desde el desempoderamiento.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-31"
+          "_anchor": "msg-box5-3f"
         },
         {
           "_styles": {
@@ -1180,7 +1180,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#9365b8",
+            "bgColor": "#553982",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1198,22 +1198,22 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/2HmQ3nIzRY0",
+              "src": "http://www.youtube.com/embed/shf8mfhvh6Y",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
             }
           },
-          "title": "VÍDEO 3&nbsp;<br>La fisiología de la ira.",
+          "title": "VÍDEO 3&nbsp;<div>La fisiología de la ira.</div>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Comprender qué sucede en tu cuerpo cuando te enfadas va a ser fundamental para poder darle a tu cuerpo lo que necesita en esos momentos.<br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://drive.google.com/file/d/1dIlJuQk07xvEF4xGbz8VSjpxIuASRmHy/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DESCARGAR</a>",
+          "text": "<p>Comprender qué sucede en tu cuerpo cuando te enfadas va a ser fundamental para poder darle a tu cuerpo lo que necesita en esos momentos.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-30"
+          "_anchor": "msg-box5-3g"
         },
         {
           "_styles": {
@@ -1258,22 +1258,82 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/2HmQ3nIzRY0",
+              "src": "http://www.youtube.com/embed/2HmQ3nIzRY0",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
             }
           },
-          "title": "VÍDEO 3&nbsp;<br>Ejercicio para salir de la ira.",
+          "title": "VÍDEO 3&nbsp;<div>Ejercicio para salir de la ira.</div>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Es importante entrenar este método para generar una emoción neutra.<br></p><p>Esto me va a permitir salir de cualquier emoción y regresar a un estado de normalidad o bienestar.</p><p>Cuando realice ejercicios de liberación de la ira, será importante saber volver a la neutralidad.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://drive.google.com/file/d/1dIlJuQk07xvEF4xGbz8VSjpxIuASRmHy/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DESCARGAR</a>",
+          "text": "<p>Es importante entrenar este método para generar una emoción neutra. Esto me va a permitir salir de cualquier emoción y regresar a un estado de normalidad o bienestar. Cuando realice ejercicios de liberación de la ira, será importante saber volver a la neutralidad.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-2z"
+          "_anchor": "msg-box5-3h"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#eb6b56",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "http://www.youtube.com/embed/T8xTSgx6PDg",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "AUDIO 1<div>La ira en el espejo.</div>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Este es un juego para observar tus juicios sobre la ira. En el audio te lo explico todo. Diviértete.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3i"
         },
         {
           "_styles": {
@@ -1318,82 +1378,22 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/mp15GlcpSEY",
+              "src": "http://www.youtube.com/embed/mp15GlcpSEY",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
             }
           },
-          "title": "AUDIO 1<br>La ira en el espejo.",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Este es un juego para observar tus juicios sobre la ira. En el audio te lo explico todo. Diviértete.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://drive.google.com/file/d/1kl-gT3PKyq2DeK8y86KMfbPwbHJIs7jF/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DESCARGAR</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-2y"
-        },
-        {
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fc9075",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "headerAlign": "left",
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "images/iphone.png"
-            },
-            "video": {
-              "active": true,
-              "src": "https://youtu.be/mp15GlcpSEY",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "AUDIO 2<br>La descarga de la ira.",
+          "title": "AUDIO 2<div>La descarga de la ira.</div>",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Cada vez que necesites hacer una liberación de la ira puedes utilizar este audio de referencia. La múcia está en el siguiente VIDEO</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://drive.google.com/file/d/1kl-gT3PKyq2DeK8y86KMfbPwbHJIs7jF/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DESCARGAR</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-2x"
+          "_anchor": "msg-box5-3j"
         },
         {
           "_styles": {
@@ -1420,7 +1420,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#faaf40",
+            "bgColor": "#b8312f",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1438,22 +1438,22 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/mp15GlcpSEY",
+              "src": "http://www.youtube.com/embed/Xw-m4jEY-Ns",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
             }
           },
-          "title": "MUSICA<br>Herramienta",
+          "title": "MUSICA CAÑERA<div>Herramienta</div>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>música bastante intensa.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://drive.google.com/file/d/1kl-gT3PKyq2DeK8y86KMfbPwbHJIs7jF/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DESCARGAR</a>",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-2w"
+          "_anchor": "msg-box5-3k"
         },
         {
           "_styles": {
@@ -2526,7 +2526,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#553982",
+            "bgColor": "#9365b8",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2544,22 +2544,22 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/shf8mfhvh6Y",
+              "src": "http://www.youtube.com/embed/FaShjwEpmGQ",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
             }
           },
-          "title": "VÍDEO 1&nbsp;<br>La mala fama de la ira.",
+          "title": "VÍDEO 1&nbsp;<div>La mala fama de la ira.</div>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Entender el mecanismo natural de la ira en los mamíferos nos va a ayudar a entender la ira como fuerza y motivación.<br></p><p>La agresividad, la venganza, el hacer daño a través de la ira es una derivación cultural de la energía de la ira basada en nuestra educación.</p><p>No nos han permitido conectar con nuestro verdadero poder cuando éramos niños, sino que hemos sido sometidos por eso nos relacionamos con la ira desde el desempoderamiento.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://drive.google.com/file/d/1dIlJuQk07xvEF4xGbz8VSjpxIuASRmHy/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DESCARGAR</a>",
+          "text": "<p>Entender el mecanismo natural de la ira en los mamíferos nos va a ayudar a entender la ira como fuerza y motivación.</p><p>La agresividad, la venganza, el hacer daño a través de la ira es una derivación cultural de la energía de la ira basada en nuestra educación.</p><p>No nos han permitido conectar con nuestro verdadero poder cuando éramos niños, sino que hemos sido sometidos por eso nos relacionamos con la ira desde el desempoderamiento.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-2m"
+          "_anchor": "msg-box5-39"
         },
         {
           "_styles": {
@@ -2586,7 +2586,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#9365b8",
+            "bgColor": "#553982",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2604,22 +2604,22 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/shf8mfhvh6Y",
+              "src": "http://www.youtube.com/embed/shf8mfhvh6Y",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
             }
           },
-          "title": "VÍDEO 3&nbsp;<br>La fisiología de la ira.",
+          "title": "VÍDEO 3&nbsp;<div>La fisiología de la ira.</div>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Comprender qué sucede en tu cuerpo cuando te enfadas va a ser fundamental para poder darle a tu cuerpo lo que necesita en esos momentos.<br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://drive.google.com/file/d/1dIlJuQk07xvEF4xGbz8VSjpxIuASRmHy/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DESCARGAR</a>",
+          "text": "<p>Comprender qué sucede en tu cuerpo cuando te enfadas va a ser fundamental para poder darle a tu cuerpo lo que necesita en esos momentos.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-2n"
+          "_anchor": "msg-box5-3a"
         },
         {
           "_styles": {
@@ -2664,22 +2664,82 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/shf8mfhvh6Y",
+              "src": "http://www.youtube.com/embed/2HmQ3nIzRY0",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
             }
           },
-          "title": "VÍDEO 3&nbsp;<br>Ejercicio para salir de la ira.",
+          "title": "VÍDEO 3&nbsp;<div>Ejercicio para salir de la ira.</div>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Es importante entrenar este método para generar una emoción neutra.<br></p><p>Esto me va a permitir salir de cualquier emoción y regresar a un estado de normalidad o bienestar.</p><p>Cuando realice ejercicios de liberación de la ira, será importante saber volver a la neutralidad.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://drive.google.com/file/d/1dIlJuQk07xvEF4xGbz8VSjpxIuASRmHy/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DESCARGAR</a>",
+          "text": "<p>Es importante entrenar este método para generar una emoción neutra. Esto me va a permitir salir de cualquier emoción y regresar a un estado de normalidad o bienestar. Cuando realice ejercicios de liberación de la ira, será importante saber volver a la neutralidad.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-2o"
+          "_anchor": "msg-box5-3b"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#eb6b56",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "http://www.youtube.com/embed/T8xTSgx6PDg",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "AUDIO 1<div>La ira en el espejo.</div>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Este es un juego para observar tus juicios sobre la ira. En el audio te lo explico todo. Diviértete.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3c"
         },
         {
           "_styles": {
@@ -2724,82 +2784,22 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/Xw-m4jEY-Ns",
+              "src": "http://www.youtube.com/embed/mp15GlcpSEY",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
             }
           },
-          "title": "AUDIO 1<br>La ira en el espejo.",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Este es un juego para observar tus juicios sobre la ira. En el audio te lo explico todo. Diviértete.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://drive.google.com/file/d/1kl-gT3PKyq2DeK8y86KMfbPwbHJIs7jF/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DESCARGAR</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-2p"
-        },
-        {
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fc9075",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "headerAlign": "left",
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "images/iphone.png"
-            },
-            "video": {
-              "active": true,
-              "src": "https://youtu.be/Xw-m4jEY-Ns",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "AUDIO 2<br>La descarga de la ira.",
+          "title": "AUDIO 2<div>La descarga de la ira.</div>",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Cada vez que necesites hacer una liberación de la ira puedes utilizar este audio de referencia. La múcia está en el siguiente VIDEO</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://drive.google.com/file/d/1kl-gT3PKyq2DeK8y86KMfbPwbHJIs7jF/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DESCARGAR</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-2q"
+          "_anchor": "msg-box5-3d"
         },
         {
           "_styles": {
@@ -2826,7 +2826,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#faaf40",
+            "bgColor": "#b8312f",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2844,22 +2844,22 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/Xw-m4jEY-Ns",
+              "src": "http://www.youtube.com/embed/Xw-m4jEY-Ns",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
             }
           },
-          "title": "MUSICA<br>Herramienta",
+          "title": "MUSICA CAÑERA<div>Herramienta</div>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>música bastante intensa.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://drive.google.com/file/d/1kl-gT3PKyq2DeK8y86KMfbPwbHJIs7jF/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DESCARGAR</a>",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-2r"
+          "_anchor": "msg-box5-3e"
         },
         {
           "_styles": {
@@ -3442,7 +3442,7 @@
             }
           },
           "title": "VÍDEO 4&nbsp;<br>Sesión grupal #1",
-          "meta": "Del 16 de Juunio de 2020",
+          "meta": "Del 16 de Junio de 2020",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://drive.google.com/file/d/1dIlJuQk07xvEF4xGbz8VSjpxIuASRmHy/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DESCARGAR</a>",
           "_tags": [
@@ -3450,103 +3450,6 @@
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-29"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Espiral #2",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-2j"
-        },
-        {
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#9365b8",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "headerAlign": "left",
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "images/iphone.png"
-            },
-            "video": {
-              "active": true,
-              "src": "https://youtu.be/NN1fUf7qCxc",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "VÍDEO 3&nbsp;<br>El derecho a sentir.",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Hemos sido educados en una sociedad tan restrictiva con respecto a las emociones que muchos tenemos un programa mental que nos impide el derecho a sentir.</p><p><b>Gestionar la ira y el resto de las emociones hace imprescindible ese permiso, poder dar espacio a cualquier emoción sin huir, evadir,  juzgar o culpar.</b></p><p>Toda emoción es sana y tiene un propósito de supervivencia. Es necesario abandonar el cliché de emoción positiva o negativa.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://drive.google.com/file/d/1dIlJuQk07xvEF4xGbz8VSjpxIuASRmHy/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DESCARGAR</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-2k"
         },
         {
           "_styles": {
