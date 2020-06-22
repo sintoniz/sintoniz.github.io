@@ -172,16 +172,16 @@
   color: #9365b8;
   text-align: center;
 }
-#msg-box1-32 .mbr-header .mbr-header__text {
-  color: #fff;
-}
-#msg-box1-32 .mbr-article {
-  color: #fff;
-}
 #msg-box1-1q .mbr-header .mbr-header__text {
   color: #fff;
 }
 #msg-box1-1q .mbr-article {
+  color: #fff;
+}
+#msg-box1-32 .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-32 .mbr-article {
   color: #fff;
 }
 #msg-box5-3f .mbr-header__text {

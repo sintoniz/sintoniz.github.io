@@ -1032,7 +1032,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
             "paddingTop": 2,
             "paddingBottom": 3,
@@ -1049,14 +1049,14 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Espiral #2",
-          "text": "",
+          "title": ":&gt; CONTENIDOS :",
+          "text": "Aparece el contenido más reciente en primer lugar",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box1",
-          "_anchor": "msg-box1-32"
+          "_anchor": "msg-box1-1q"
         },
         {
           "_styles": {
@@ -1086,14 +1086,14 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": ":&gt; CONTENIDOS :",
+          "title": "Espiral #2",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box1",
-          "_anchor": "msg-box1-1q"
+          "_anchor": "msg-box1-32"
         },
         {
           "_styles": {
