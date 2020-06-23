@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "La Espiral de Contemplo",
-    "currentPage": "EXahsgdfyri.html",
+    "currentPage": "EX738hdbf738f.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -798,7 +798,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": ":&gt; CURSO",
+          "title": ":&gt; CURSO:La Ira Consciente",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
@@ -899,7 +899,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": ":&gt; menu a espirales :&lt;",
+          "title": ":&gt; MENU ESPIRALES :&lt;",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
@@ -1024,10 +1024,12 @@
         {
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#fff"
+              "color": "#fff",
+              "text-align": "center"
             },
             ".mbr-article": {
-              "color": "#fff"
+              "color": "#fff",
+              "text-align": "center"
             }
           },
           "_params": {
@@ -1207,7 +1209,7 @@
           },
           "title": "VÍDEO 3&nbsp;<div>La fisiología de la ira.</div>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Comprender qué sucede en tu cuerpo cuando te enfadas va a ser fundamental para poder darle a tu cuerpo lo que necesita en esos momentos.</p>",
+          "text": "<p>Comprender qué sucede en tu cuerpo cuando te enfadas va a ser fundamental para poder darle lo que necesita en esos momentos.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -1445,7 +1447,7 @@
               "loop": false
             }
           },
-          "title": "MUSICA CAÑERA<div>Herramienta</div>",
+          "title": "MÚSICA CAÑERA<div>Herramienta</div>",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
@@ -2334,6 +2336,33 @@
           "_anchor": "msg-box1-1x"
         },
         {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/portada-720x480.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1y"
+        },
+        {
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "color": "#fff"
@@ -2369,33 +2398,6 @@
           ],
           "_name": "msg-box1",
           "_anchor": "msg-box1-2c"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "outside": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/portada-720x480.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-1y"
         },
         {
           "_styles": {
@@ -2913,7 +2915,7 @@
           },
           "title": "AUDIO 2<div>La descarga de la ira.</div>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Cada vez que necesites hacer una liberación de la ira puedes utilizar este audio de referencia. La múcia está en el siguiente VIDEO</p>",
+          "text": "<p>Cada vez que necesites hacer una liberación de la ira puedes utilizar este audio de referencia. La múcia está en el siguiente VIDEO.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
