@@ -240,6 +240,15 @@
 #msg-box5-3k .mbr-article {
   color: #ffffff;
 }
+#msg-box4-3r .mbr-header__text {
+  color: #000000;
+}
+#msg-box4-3r .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-3r .mbr-article {
+  color: #000000;
+}
 #msg-box5-3q .mbr-header__text {
   color: #ffffff;
 }
