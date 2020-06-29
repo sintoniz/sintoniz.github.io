@@ -407,11 +407,26 @@
 #msg-box1-2t .mbr-article {
   color: #fff;
 }
+#msg-box1-2t .btn {
+  font-size: 30px;
+}
 #msg-box1-2u .mbr-header .mbr-header__text {
   color: #fff;
 }
 #msg-box1-2u .mbr-article {
   color: #fff;
+}
+#msg-box1-2u .btn {
+  font-size: 32px;
+}
+#msg-box1-3v .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-3v .mbr-article {
+  color: #fff;
+}
+#msg-box1-3v .btn {
+  font-size: 32px;
 }
 #msg-box1-2v .mbr-header .mbr-header__text {
   color: #41a85f;
@@ -426,6 +441,58 @@
 }
 #msg-box1-1z .mbr-article {
   color: #fff;
+  font-size: 21px;
+}
+#msg-box1-3w .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-3w .mbr-article {
+  color: #fff;
+}
+#msg-box5-3x .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-3x .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-3x .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-3y .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-3y .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-3y .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-3z .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-3z .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-3z .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-41 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-41 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-41 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-40 .mbr-header__text {
+  color: #000000;
+}
+#msg-box4-40 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-40 .mbr-article {
+  color: #000000;
 }
 #msg-box1-2l .mbr-header .mbr-header__text {
   color: #fff;
