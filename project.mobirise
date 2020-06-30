@@ -24,7 +24,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 146,
+    "uniqCompNum": 147,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-144974834-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-144974834-1');\n</script>\n"
@@ -2578,7 +2578,7 @@
           },
           "title": "Espiral #2",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"EXahsgdfyri.html#msg-box1-1z\" data-toolbar=\"-mbrBtnMove\">#2</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"EXPREMIUM-eyd8eh9.html#msg-box1-2l\" data-toolbar=\"-mbrBtnMove\">#2</a>",
           "_tags": [
             "Theme"
           ],
@@ -2789,9 +2789,9 @@
               "loop": false
             }
           },
-          "title": "VÍDEO 1&nbsp;<div>L</div>",
+          "title": "VÍDEO 1<br>¿Dónde está tu atención?",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>E</p>",
+          "text": "<p>En la vida existen tres tipos de asuntos: los de la vida, los de los otros y los tuyos. Hay dos tipos de patologías: tener el foco de atención en los otros o en la vida; o tenerlo en nosotros mismos de una forma tan rígida que impongamos nuestras necesidades a los demás.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -2849,9 +2849,9 @@
               "loop": false
             }
           },
-          "title": "VÍDEO 2<div>L</div>",
+          "title": "VÍDEO 2<div>El control y las carencia</div>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>C</p>",
+          "text": "<p>La distorsión entre poder y control es la causa de mucha de nuestra ira. La idea de control hace que interpretemos como amenazas las circunstancias que se salen de nuestras expectativas.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -2909,9 +2909,9 @@
               "loop": false
             }
           },
-          "title": "VÍDEO 3&nbsp;<div>L</div>",
+          "title": "VÍDEO 3&nbsp;<div>La responsabilidad plena</div>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>E</p>",
+          "text": "<p>Asumir toda la responsabilidad de mi vida es complicado. Me obliga a tomar decisiones constantemente, a enfrentarme, a poner límites, a confrontar, a moverme. Es una gran decisión. La recompensa será una gran fuerza interior.<br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -2962,22 +2962,82 @@
             },
             "video": {
               "active": true,
-              "src": "http://www.youtube.com/embed/T8xTSgx6PDg",
+              "src": "http://www.youtube.com/embed/L2ere7h9Hb0",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
             }
           },
-          "title": "AUDIO 1<div>L</div>",
+          "title": "AUDIO 1<div>Experimentar el poder</div>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>E</p>",
+          "text": "<p>Cada vez que quieras empoderarte puedes hacer este ejercicio con o sin música. Puede hacerlo como ejercicio único o después de haber liberado la ira.</p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-41"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "http://www.youtube.com/embed/nEgKXtA8SZY",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "MÚSICA",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Escucha.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-42"
         },
         {
           "_inherit": "msg-box5",
@@ -3009,7 +3069,7 @@
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/bitacora-411x500.jpg",
-              "link": "https://drive.google.com/file/d/1VoqykG2q5a3pAoJT-uYE4NB7e06uiMJs/view?usp=sharing",
+              "link": "https://drive.google.com/file/d/1D5bh189GRzhFESoBc8goj3eCn2xT3mPb/view?usp=sharing",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
@@ -3026,7 +3086,7 @@
               "size": 0
             }
           },
-          "title": "TEXTO#1<br>Cuaderno de bitácora<div><a href=\"https://drive.google.com/file/d/1VoqykG2q5a3pAoJT-uYE4NB7e06uiMJs/view?usp=sharing\" target=\"_blank\">Espiral #3</a></div>",
+          "title": "TEXTO#1<br>Cuaderno de bitácora<div><a href=\"https://drive.google.com/file/d/1D5bh189GRzhFESoBc8goj3eCn2xT3mPb/view?usp=sharing\" target=\"_blank\">Espiral #3</a></div>",
           "text": "<p>Clic para ver el documento pdf.</p>",
           "_tags": [
             "Theme"
