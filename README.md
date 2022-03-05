@@ -1,2 +1,2 @@
-# sintoniz.github.io
+# lokomotion.github.io
 GitHub Pages
